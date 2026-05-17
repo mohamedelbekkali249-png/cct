@@ -313,7 +313,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/curiosity/manifest.mpd
 
 
 #EXTINF:-1 group-title="1. INDONESIA;SPORTS;LIGA BELANDA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
-https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd
 #https://jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
 #EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id"  tvg-logo="https://i.ibb.co.com/1zFVnXg/makkahlive.png" group-title="RELIGI", MAKKAH LIVE 🕋 ☪
@@ -370,15 +371,18 @@ https://jtedge.indihometv.com/dassdvr/130/trans7/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://o.nz/mac/479214/8A26CEFB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="1. INDONESIA",RCTI Max
-https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://o.nz/mac/479214/8A26CEFB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="1. INDONESIA",MNCTV Max
-https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://o.nz/mac/479214/8A26CEFB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="1. INDONESIA",GTV Max
-https://indihuy.streamized.net/atm/DASH/globlaltv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSS1SyB9RTnw51gcQQHQMxJc1DU3t_2XP1p5ngw10MessTCZkvUneqBR8&s=10",IMC Max
@@ -553,8 +557,9 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
 https://popmi.my.id/tes.m3u8?id=205
 ---
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title="1. INDONESIA;LIGA BELANDA", KOMPAS TV in
-https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title="1. INDONESIA;LIGA BELANDA", KOMPAS TV Max
+https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
 
 ----
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -770,18 +775,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoH
 
 #EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA;FILM", Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
-https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/warner/warner-avc1_2500000=6-3278334240000000.mpd
 
 #EXTINF:-1 tvg-logo="https://images." group-title="ANAK-ANAK", Fun Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
-https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3286265190000000.mpd
 
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://dl.dropboxrp51aouwircr4f/image%281%29.jpeg", Antara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://indihuy.streamized.net/atm/DASH/antara/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/antara/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/antara/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/antara/antara-avc1_2500000=6-3278328720000000.mpd
 #https://cdngb196.indihometv.com/atm/DASH/antara/antara-avc1_2500000=6-3278328720000000.mpd
 
@@ -795,7 +803,8 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/da/download-logo-rcti-4.png" group-title="1. INDONESIA", Inews indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/inews/inews-avc1_2500000=15-3280280430000000.mpd
 
 
@@ -831,7 +840,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AllPlay_Entertainment.png/2560px-AllPlay_Entertainment.png" group-title="1. INDONESIA", Max Reels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 #https://cdn13jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
 #https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd?9
 
@@ -857,6 +867,9 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/PgFHMBw/20250101-164251.jpg",Berita Satu
+https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+
+---
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 https://ratu77.adptv.workers.dev/index.m3u8?id=18280&type=hls
@@ -1099,12 +1112,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg", K+ Max
-https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png", ROCK ACTION Max
-https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
 
 ---
@@ -1114,7 +1129,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid
 
 
 #EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/640px-Rock_Entertainment.png", ROCK ENTERTAINMENT Max
-https://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment-avc1_2500000=7-3277707030000000.mpd
 
 ----
@@ -1130,7 +1146,8 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="1. INDONESIA",Indosiar Max
-https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3284600346800000.mpd
 
 ----
@@ -1936,7 +1953,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-title="1. INDONESIA;FILM", AXN Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/axn/axn-avc1_2500000=6-3308869740000000.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #https://cdn11jtedge.indihometv.com/atm/DASH/axn/axn-avc1_2500000=6-3308869740000000.mpd
@@ -2059,7 +2077,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGl
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://dl.dropbox.com/p51aouwircr4f/im%281%29.jpeg", Prambors TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/pramborstv/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=6-3278332010000000.mpd
 
 #EXTINF:-1 tvg-id="816.astro" tvg-name="816.astro" group-title="SPORTS" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV B
@@ -2114,23 +2133,28 @@ https://cdnjkt913.transvision.co.id/live/master/1/4028c6856c3db2cc016cdbfc4a1934
 hbo indi----
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="1. INDONESIA;FILM",HBO Max
-https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3284600346800000.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-id="hbohitsasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO HITS Max
-https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3284600346800000.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-id="hbofamilyasia.sg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO FAMILY Max
-https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3284600346800000.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-id="hbosignatureasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO SIGNATURE Max
-https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3284600346800000.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-id="cinemaxasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX Max
-https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 #https://jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3284600346800000.mpd
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png",DMI TV
@@ -2170,11 +2194,13 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
 #https://jtedge.indihometv.com/atm/DASH/mqtv/mqtv-avc1_1200000=4-3309216910000000.mpd
 
 #EXTINF:-1 tvg-id="26890" tvg-name="Ar" tvg-logo="https:///kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Religi" , MTA TV
-https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mtatv/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/mtatv-avc1_1200000=4-3309216910000000.mpd
 
 #EXTINF:-1 tvg-id="26890" tvg-name="Ar" tvg-logo="https:///kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Knowledge" , CGTN DOCUMENTARY
-https://indihuy.streamized.net/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/CGTN_DOCUMENTARY-avc1_1200000=4-3309216910000000.mpd
 
 #EXTINF:-1 tvg-id="26890" tvg-name="Ar" tvg-logo="https:///kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Knowledge" , BLOOMBERG
@@ -2185,12 +2211,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.
 
 
 #EXTINF:-1 tvg-id="26890" tvg-name="Ar" tvg-logo="https:///kanali-logo/Arena_Sport_10_HR_logo.png" group-title="1. INDONESIA" , JAK TV
-https://indihuy.streamized.net/atm/DASH/JAK_TV/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/JAK_TV/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_1200000=4-3309216910000000.mpd
 
 
 #EXTINF:-1 tvg-id="26890" tvg-name="Ar" tvg-logo="https:///kanali-logo/Arena_Sport_10_HR_logo.png" group-title="1. INDONESIA;FILM" , Thrill Max
-https://indihuy.streamized.net/atm/DASH/thrill/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/thrill/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/thrill/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/thrill/thrill-avc1_1200000=4-3309216910000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="SPORTS;BOLA;LIGA ITALIA", BEIN SPORTS 1 ENG
@@ -2941,15 +2969,18 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b
 
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",Max Eats
-https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg",Max Streak
-https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mazstreak/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel
-https://indihuy.streamized.net/atm/DASH/idx/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/idx/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/idx/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
 
@@ -3044,7 +3075,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/net/manifest.mpd
 
 #EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-logo="https://i.ibb.co.com/tJ27PX5/nick.png" group-title="ANAK-ANAK", NICKELODEON Max
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://indihuy.streamized.net/atm/DASH/nickelodeon/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/nickelodeon/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 
 
