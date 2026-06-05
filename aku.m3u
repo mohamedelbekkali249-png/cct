@@ -41,8 +41,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid02.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/Q05OaS1teQ/manifest.mpd?signature=OGRjYzBjZjkwOWFlZmY2NDQzNDYwYWVhMTY0ZGI5Nzg=&time=15210565320
-#https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/Q05OaS1teQ/manifest.mpd
+https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/Q05OaS1teQ/manifest.mpd
 
 
 
@@ -50,8 +49,8 @@ https://cdnjktbpid02.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid02.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFZOIE1vdmllcw/manifest.mpd?signature=NDhmNTI4NzU1NGJjYjM4MmM2N2Q5YjM4MjI2NzcxMmQ=&time=15210565205
-#https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFZOIE1vdmllcw/manifest.mpd
+https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFZOIE1vdmllcw/manifest.mpd
+
 
 ---
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -64,8 +63,7 @@ https://cdnjkt913.transvision.co.id/live/master/2/4028c68595d0c2ed01961380bf5804
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid02.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VHJhbnNUVg/manifest.mpd?signature=MWQ4Njg3ODE0MDkzNTY5ODVhNDhkOTEzMWQ0YmEwMWE=&time=15210565105
-#https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VHJhbnNUVg/manifest.mpd
+https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VHJhbnNUVg/manifest.mpd
 
 
 
@@ -73,8 +71,7 @@ https://cdnjktbpid02.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid02.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFJBTlM3LW15/manifest.mpd?signature=MzA4MmJjOTIyN2JjMDQ4MDlhNGM1MDFkODQ0Njc3ZmU=&time=15210560147
-#https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFJBTlM3LW15/manifest.mpd
+https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFJBTlM3LW15/manifest.mpd
 
 
 
@@ -82,26 +79,26 @@ https://cdnjktbpid02.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/SW5kb3NpYXI/manifest.mpd
+https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/SW5kb3NpYXI/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="ID.364" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/804a0414-edd9-4e16-bd7e-1fbb593525ec.png" group-title="1. INDONESIA", ANTV CBM
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/QU5UVg/manifest.mpd
+https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/QU5UVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="814.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f0771c7b-d473-4fa4-ad0f-cdffd4bc0ac5.jpg" tvg-name="Kompas TV" group-title="1. INDONESIA", Kompas TV CBM
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/S29tcGFzIFRW/manifest.mpd
+https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/S29tcGFzIFRW/manifest.mpd
 
 #EXTINF:-1 tvg-id="144.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" tvg-name="Bioskop Indonesia" group-title="1. INDONESIA;FILM", Bioskop Indonesia CBM
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
+https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
 
 
 EXTINF:-1 group-title="TIMNAS" tvg-id="tvke.id" tvg-logo="https://i.png",AFC U17 2026
