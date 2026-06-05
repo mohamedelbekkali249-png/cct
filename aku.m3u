@@ -41,7 +41,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/Q05OaS1teQ/manifest.mpd
+https://cdnjktbpid02.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/Q05OaS1teQ/manifest.mpd?signature=OGRjYzBjZjkwOWFlZmY2NDQzNDYwYWVhMTY0ZGI5Nzg=&time=15210565320
+#https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/Q05OaS1teQ/manifest.mpd
 
 
 
@@ -49,7 +50,8 @@ https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFZOIE1vdmllcw/manifest.mpd
+https://cdnjktbpid02.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFZOIE1vdmllcw/manifest.mpd?signature=NDhmNTI4NzU1NGJjYjM4MmM2N2Q5YjM4MjI2NzcxMmQ=&time=15210565205
+#https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFZOIE1vdmllcw/manifest.mpd
 
 ---
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -62,7 +64,8 @@ https://cdnjkt913.transvision.co.id/live/master/2/4028c68595d0c2ed01961380bf5804
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VHJhbnNUVg/manifest.mpd
+https://cdnjktbpid02.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VHJhbnNUVg/manifest.mpd?signature=MWQ4Njg3ODE0MDkzNTY5ODVhNDhkOTEzMWQ0YmEwMWE=&time=15210565105
+#https://cdnjktbpid01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VHJhbnNUVg/manifest.mpd
 
 
 
