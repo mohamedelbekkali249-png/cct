@@ -1680,6 +1680,11 @@ https://why.biz.id/Iptv/youtubehlschannelid.php?id=UC5BMIWZe9isJXLZZWPWvBlg
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="1. INDONESIA",TRANS TV a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://vidx.semar.my.id/biasa2.mpd?id=733&type=dash
+
+---
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
