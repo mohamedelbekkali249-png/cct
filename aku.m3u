@@ -3221,11 +3221,17 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20L
 
 -----piala dunia------
 
-#EXTINF:-1 tvg-id="" group-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg" tvg-name="" tvg-logo="" group-title="SPORTS;PIALA DUNIA",TELEMUNDO DEPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", World Cup 2026 1 🇵🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", World Cup 2026 2 🇵🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
 
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS;PIALA DUNIA", TSN 1 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
@@ -3256,6 +3262,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+#EXTINF:-1 tvg-id="" group-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg" tvg-name="" tvg-logo="" group-title="SPORTS;PIALA DUNIA",TELEMUNDO DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-GXVS5UFx_lCeUeFTJ3_9iYG04syYmryQRY7XnhjXqEPIYF0rldOjyOJ3yBQgDkuRdjU3TtiFS8W_DyyvlkQHQ6pQvCTlLeRyBj2x5iVXZpywuiD2y5H7DeCiVdsgwSCUn_OWULmgMuK9-jp69aEYwxSTSsAWZczvcMcgg-epIkB/s700/CAZE%20TV.png" group-title="SPORTS;BOLA;LIGA PERANCIS;PIALA DUNIA",CAZE TV 1
@@ -3338,20 +3350,6 @@ https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", World Cup 2026 1 🇵🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", World Cup 2026 2 🇵🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
-
-
 #EXTINF:-28 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", Tv J 🇯🇲
 https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
 
@@ -3386,6 +3384,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/slc1dkcymj/out/v1/dd17
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="PIALA DUNIA", Las Estrellas (Mexico)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x0/system/OkeyDolby.png", RTM Okey
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/DASH/okey.mpd
+
+
+
+
+
+
+
+
+
+
 
 
 
