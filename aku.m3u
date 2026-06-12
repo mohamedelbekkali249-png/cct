@@ -3404,8 +3404,12 @@ EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
-EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://cdn.stmify.com/mytv/stream/SUKAN_RTM/index.mpd
+#https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 
 EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x0/system/OkeyDolby.png", RTM Okey
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/DASH/okey.mpd
