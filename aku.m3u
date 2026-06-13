@@ -639,10 +639,10 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
 ----
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Supernesia.png" group-title="1. INDONESIA", SCTV Vi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Supernesia.png" group-title="1. INDONESIA", SCTV Vi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=204
+https://ratu77.adptv.workers.dev/index.m3u8?id=204&type=hls
 
 ---
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
