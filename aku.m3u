@@ -561,6 +561,9 @@ https://ayo.maling.pl/Vision/index.mpd?id=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="1. INDONESIA",TV ONE
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://tvratu.my.id/vid/index.mpd?id=783&type=dash
+
+---
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=783
 https://ratuvidio.adptv.workers.dev/index.mpd?id=783
