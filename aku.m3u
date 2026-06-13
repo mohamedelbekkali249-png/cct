@@ -3221,6 +3221,15 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20L
 
 -----piala dunia------
 
+
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06264271.jpeg", TVRI SPORTS
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
+https://tencent-css.byteplaycdn.com/7011270bd0a181fc3050a2db89006650/6A2CE402/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+####https://tencent-css.byteplaycdn.com/1dff2708d53a6a6ab3d23241b3d70c1d/6A2BA4E3/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+
+
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://i.ibb.co.com/7tFY7tC/rtbaneka.png", RTB ANEKA 🇧🇳
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
